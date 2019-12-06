@@ -1,0 +1,42 @@
+[13-Sep-2019 07:58:48 UTC] PHP Fatal error:  Call to undefined method Fb::template() in /home/youngdev/muaman.youngdev.web.id/application/controllers/Fb.php on line 8
+[13-Sep-2019 09:59:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/system/core/Exceptions.php on line 105
+[16-Sep-2019 04:48:02 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/system/core/Exceptions.php on line 252
+[16-Sep-2019 04:48:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/application/views/errors/html/error_php.php on line 17
+[16-Sep-2019 04:50:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/system/core/Exceptions.php on line 270
+[16-Sep-2019 04:56:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/system/core/Common.php on line 621
+[16-Sep-2019 05:01:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/application/controllers/polis/Bulkpurchase.php on line 388
+[16-Sep-2019 05:24:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/application/views/errors/html/error_php.php on line 23
+[16-Sep-2019 05:32:45 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/system/core/Exceptions.php on line 268
+[16-Sep-2019 05:35:31 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/system/core/Exceptions.php on line 268
+[16-Sep-2019 05:37:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/system/core/Log.php on line 181
+[16-Sep-2019 06:32:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/system/core/Exceptions.php on line 268
+[16-Sep-2019 06:35:01 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/system/core/Exceptions.php on line 253
+[16-Sep-2019 06:35:21 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/youngdev/muaman.youngdev.web.id/application/controllers/polis/Bulkpurchase.php on line 403
+[16-Sep-2019 06:40:40 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/youngdev/muaman.youngdev.web.id/application/controllers/polis/Bulkpurchase.php on line 403
+[16-Sep-2019 06:42:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/system/core/Exceptions.php on line 268
+[16-Sep-2019 09:00:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/application/views/errors/html/error_php.php on line 17
+[16-Sep-2019 09:02:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/application/views/errors/html/error_php.php on line 19
+[16-Sep-2019 09:23:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/system/core/Exceptions.php on line 268
+[16-Sep-2019 09:25:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/application/views/errors/html/error_php.php on line 14
+[16-Sep-2019 09:29:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/system/core/Exceptions.php on line 268
+[16-Sep-2019 09:37:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/application/views/errors/html/error_php.php on line 12
+[16-Sep-2019 09:49:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/application/views/errors/html/error_php.php on line 1
+[16-Sep-2019 10:02:29 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/system/core/Exceptions.php on line 268
+[16-Sep-2019 10:02:40 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/system/core/Exceptions.php on line 268
+[16-Sep-2019 10:07:47 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/application/views/errors/html/error_php.php on line 19
+[16-Sep-2019 10:10:29 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/application/views/errors/html/error_php.php on line 17
+[16-Sep-2019 10:49:34 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/application/views/errors/html/error_php.php on line 22
+[16-Sep-2019 10:51:47 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/system/core/Exceptions.php on line 268
+[16-Sep-2019 11:45:00 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/system/core/Exceptions.php on line 268
+[29-Oct-2019 22:38:52 Asia/Jakarta] PHP Fatal error:  Function name must be a string in /home/youngdev/muaman.youngdev.web.id/application/views/generatepdf.php on line 13
+[29-Oct-2019 22:42:29 Asia/Jakarta] PHP Fatal error:  Function name must be a string in /home/youngdev/muaman.youngdev.web.id/application/views/generatepdf.php on line 13
+[29-Oct-2019 22:42:41 Asia/Jakarta] PHP Fatal error:  Function name must be a string in /home/youngdev/muaman.youngdev.web.id/application/views/generatepdf.php on line 13
+[14-Nov-2019 13:18:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/youngdev/muaman.youngdev.web.id/application/controllers/polis/Bulkpurchase.php on line 427
+[14-Nov-2019 13:39:23 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/system/core/Exceptions.php on line 268
+[14-Nov-2019 13:40:47 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/system/core/Exceptions.php on line 268
+[14-Nov-2019 14:05:26 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/application/views/errors/html/error_php.php on line 17
+[14-Nov-2019 14:08:31 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/youngdev/muaman.youngdev.web.id/system/core/Exceptions.php on line 268
+[14-Nov-2019 17:27:48 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbulkpurchase::getpolispdf() in /home/youngdev/muaman.youngdev.web.id/application/models/polis/bulkpurchase/Mbulkpurchase.php on line 553
+[14-Nov-2019 17:28:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/youngdev/muaman.youngdev.web.id/application/controllers/Generatepdf.php on line 53
+[14-Nov-2019 17:29:21 Asia/Jakarta] PHP Fatal error:  Call to a member function getpolispdf() on null in /home/youngdev/muaman.youngdev.web.id/application/controllers/Generatepdf.php on line 9
+[14-Nov-2019 17:34:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$k' (T_VARIABLE) in /home/youngdev/muaman.youngdev.web.id/application/controllers/Generatepdf.php on line 16
